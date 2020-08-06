@@ -3,7 +3,7 @@
 In cryptography is one of the simplest and most widely known encryption techniques. 
 It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
 
-The encryption can also be represented using modular arithmetic by first transforming the letters into numbers.
+The encryption be represented using modular arithmetic by first transforming the letters into numbers.
 Encryption of a letter x by a shift n can be described mathematically as ( n = key, x = number of character)
 
 **E(x) = (x + n) mod26** <br/>
